@@ -1,0 +1,31 @@
+body {
+	background-color: orangered;
+}
+
+.tekst {
+	width: 35%;
+	margin:-2% auto 12.5% auto;
+	padding-top:30%;
+}
+
+h1 {
+	color:darkblue;
+	font-size: 60px;
+	font-family: 'Great Vibes';
+	text-align: center;
+
+}
+
+p {
+	font-family: 'Indie Flower';
+	font-size:20px;
+	color:white;
+}
+
+img {
+  	float:left;
+}
+
+.10 {
+	
+}

@@ -1,0 +1,23 @@
+body {
+	background-color: darkcyan;
+	text-align: center;
+}
+
+.tekst {
+	width: 60%;
+	margin: 3% auto 1% auto;
+}
+
+h1 {
+	color:pink;
+	font-size: 60px;
+	font-family: 'Great Vibes';
+	margin-bottom:10px;
+	
+}
+
+
+img {
+	margin:1% 2.5%;
+}
+

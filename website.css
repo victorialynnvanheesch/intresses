@@ -1,0 +1,200 @@
+body {
+	background-color:teal;
+	color:white;
+	background-image: url(achter/achter.jpg);  
+}
+
+.kader {
+	width:96%;
+	height:50%;
+	border:dotted 10px lightpink;
+	padding:1%;
+}
+
+img {
+	display:none;
+}
+
+.selected {
+	display:inline;
+}
+
+.kopjes {
+	margin-top:-10%;
+	margin-left:28%;
+}
+
+.motief {
+	margin-left:75%;
+	margin-top:-25%;
+}
+
+.gebouwen {
+	margin-top:-36%;
+	margin-left:51%;
+}
+
+.kasten {
+	margin-top:-33%;
+}
+
+.naam {
+	font-size:65px;
+	font-family: Great Vibes;
+	text-decoration: none;
+	color:white;
+	margin-left:25%;
+	margin-top:3%;
+	padding:0 3%;
+	position:absolute;
+}
+
+.mandala {
+	
+}
+
+.fantasie {
+	margin-top: -32%;
+	margin-left:78%;
+}
+
+.tuinidee {
+	margin-left:78%;
+	margin-top:-23%;
+}
+
+.woonidee {
+	margin-top:-40%;
+	margin-right:60%;
+}
+
+.interessant{
+	margin-top:5%;
+	margin-left:35%;
+	color:teal;
+	background-image: url(achter/achter2.jpg);  
+	border:solid 3px lightgreen;
+	padding:10px;
+	opacity-background: 0.20;
+	font-size: 40px;
+	font-family: Indie Flower;
+}
+
+.klik {
+	font-size: 40px;
+	font-family: Indie Flower;
+	margin-top:-10%;
+	margin-left:35%;
+	background-image: url(achter/achter3.jpg);  
+	border:dotted 3px white;
+	color:mediumpurple;
+}
+
+.festivals {
+	margin-left:28%;
+	margin-top:-5%;
+}
+
+.clear {
+	clear:both;
+}
+
+.woods {
+	margin-top:2%;
+}
+
+.burton {
+	margin-top:-47%;
+	margin-left:28%;
+}
+
+.mooi {
+	margin-left:78%;
+	margin-top:-30%;
+}
+
+.marenthe {
+	margin-top:-50%;
+	margin-left:30%;
+}
+
+.tijdschrift {
+	margin-top:-5%;
+}
+
+.erwin {
+	margin-top:-57%;
+	margin-left:71%;
+}
+
+.walker {
+	margin-top:0%;
+}
+
+.busje {
+	margin-top:-25%;
+	margin-left:50%;
+}
+
+.tekst {
+	font-size: 40px;
+	font-family: Indie Flower;
+	background:teal;
+	border:dotted 4px white;
+	margin-top:10%;
+	margin-left:73%;
+}
+
+.bla {
+	margin-top:10%;
+	margin-left:5%;
+}
+
+button {
+	font-size: 30px;
+	font-family: Chalkduster; 
+	color:white; 
+	opacity: 0.9;
+	background:lightblue;
+}
+
+.red {
+	background-image: url(achter/achter4.jpg);  
+}
+
+.bird {
+	background-image: url(achter/achter5.png);  
+}
+
+.in {
+	background-image: url(achter/achter2.jpg); 
+}
+
+
+/*
+in html
+<a href ..>
+<img.. (eventueel div)>
+</a>
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

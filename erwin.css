@@ -1,0 +1,27 @@
+body {
+	background-color: red;
+	text-align: center;
+}
+
+.tekst {
+	width: 60%;
+	margin:auto;
+}
+
+h1 {
+	color:darkblue;
+	font-size: 60px;
+	font-family: 'Great Vibes';
+	
+}
+
+p {
+	font-family: 'Indie Flower';
+	font-size:20px;
+	color:white;
+}
+
+img {
+	margin:1% 2.5%;
+}
+

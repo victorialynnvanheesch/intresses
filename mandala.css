@@ -1,0 +1,28 @@
+.kader {
+	background:lightpink;
+	border:solid teal 10px;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Great Vibes';
+	font-size:70px;
+	color:teal;
+	
+}
+
+p {
+	font-family: 'Indie Flower';
+	font-size:30px;
+	color:white;
+}
+
+img {
+	padding:1%;
+
+}
+
+.tekst {
+	margin:0 20%;
+}
+
