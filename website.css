@@ -39,7 +39,7 @@ img {
 }
 
 .naam {
-	font-size:65px;
+	font-size:410%;
 	font-family: Great Vibes;
 	text-decoration: none;
 	color:white;
@@ -170,13 +170,12 @@ button {
 	background-image: url(achter/achter2.jpg); 
 }
 
-
-/*
-in html
-<a href ..>
-<img.. (eventueel div)>
-</a>
-*/
+@media (max-width: 1440px) {
+      .kader {
+          width:96%;
+          height:50%;
+      }
+}
 
 
 

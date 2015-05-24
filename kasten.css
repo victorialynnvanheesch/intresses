@@ -30,4 +30,17 @@ img {
 	float:left;
 }
 
+a  {
+    text-decoration:none;
+    font-size:30px;
+    color:lightpink;
+}
+
+button {
+    background:wit;
+    margin:3% 45% 3% 45%;
+    
+   
+}
+
 

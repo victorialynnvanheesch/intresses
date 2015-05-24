@@ -26,3 +26,14 @@ img {
 	margin:0 20%;
 }
 
+a  {
+    text-decoration:none;
+    font-size:30px;
+    color:teal;
+}
+
+button {
+    background:white;
+    margin:3% 45%;  
+   
+}

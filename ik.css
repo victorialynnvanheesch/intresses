@@ -24,3 +24,15 @@ p {
 img {
 	margin:1%;
 }
+
+a  {
+    text-decoration:none;
+    font-size:30px;
+    color:green;
+}
+
+button {
+    background:white;
+  
+   
+}

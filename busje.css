@@ -30,3 +30,13 @@ p {
 img {
 	margin:0.08%;
 }
+
+a  {
+    text-decoration:none;
+    font-size:30px;
+    color:lightpink;
+}
+
+button {
+    margin:3%;
+}

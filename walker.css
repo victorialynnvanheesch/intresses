@@ -26,3 +26,14 @@ img {
 	margin:1% 2.5%;
 }
 
+a  {
+    text-decoration:none;
+    font-size:30px;
+    color:lightsalmon;
+}
+
+button {
+    background:white;
+    margin-bottom:3%;
+   
+}

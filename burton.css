@@ -4,7 +4,7 @@ body {
 
 .tekst {
 	width: 35%;
-	margin:-2% auto 12.5% auto;
+	margin:-50% auto 0 auto;
 	padding-top:30%;
 }
 
@@ -13,7 +13,6 @@ h1 {
 	font-size: 60px;
 	font-family: 'Great Vibes';
 	text-align: center;
-
 }
 
 p {
@@ -22,10 +21,32 @@ p {
 	color:white;
 }
 
-img {
+.1, .2, .3, .4, .9 {
   	float:left;
 }
 
-.10 {
-	
+a  {
+    text-decoration:none;
+    font-size:30px;
+    color:orangered;
 }
+
+button {
+    margin:3% 45%;
+}
+
+.verder {
+    float:left;
+    margin-top:8.75%;
+    margin-left:1%;
+}
+
+.fout {
+    margin-left:49.5%;
+}
+
+.kader {
+    margin-left:1%;
+    margin-top:1%;
+}
+

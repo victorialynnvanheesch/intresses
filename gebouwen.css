@@ -16,3 +16,14 @@ img {
 	margin:1.85%;
 }
 
+a  {
+    text-decoration:none;
+    font-size:30px;
+    color:green;
+}
+
+button {
+    background:white;
+    margin:2% 45% 4% 45%;
+    
+}

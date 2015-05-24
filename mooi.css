@@ -8,3 +8,15 @@ img {
 	margin:1% 2.5%;
 }
 
+a  {
+    text-decoration:none;
+    font-size:30px;
+    color:green;
+}
+
+button {
+    background:white;
+    margin:3% 0;
+    background:cadetblue;
+   
+}
